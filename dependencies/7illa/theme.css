@@ -1,0 +1,193 @@
+/* OLD DISCORD FONT */
+@import url("https://cdn.no7he.re/fonts/Whitney/font.css");
+
+/* OLD DISCORD ICONS */
+@import url("https://repo.no7he.re/dependencies/7illa/icons.css");
+
+/* OVERRULE DISCORD FONT */
+*:not(pre, code, .shiki-container) {
+    font-family: "Whitney", sans-serif !important;
+}
+
+/* HIDE NITRO TAB */
+div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(3) {
+    display: none;
+}
+
+/* HIDE SHOP TAB */
+div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(5) {
+    display: none;
+}
+
+/* HIDE HELP MENU */
+div.toolbar_e44302 > a {
+    display: none;
+}
+
+/* HIDE NAV FROM SUMMARY BAR */
+.topicsPillCarets_cf58b5 {
+    display: none;
+}
+
+/* HIDE ICON FROM SUMMARY BAR */
+.topicsPillSummaryIcon_cf58b5 {
+    display: none;
+}
+
+/* HIDE COMMUNITY SERVER ICON */
+.guildIconV2Container_ed9816 {
+    display: none;
+}
+
+/* HIDE BOOST SERVER ICON */
+.guildIconContainer_ed9816 {
+    display: none;
+}
+
+/* DISPLAY NAMES IN FRIENDS */
+.username_f3939d {
+    font-weight: 500;
+}
+
+/* ACTIVITIES TITLE */
+#uid_4531 {
+    font-weight: 500;
+}
+
+/* CHANGE RADIUS ON RICH PRESENCE ICON */
+.assets_c1d9fd > img {
+    border-radius: .125rem;
+}
+
+/* DISPLAY NAMES IN ACTIVITIES */
+.textContent_cd82a7 {
+    font-weight: 500;
+}
+
+/* HIDE ACTIVITY HEADER */
+.activityBiteSizePopout_c1d9fd > div:first-child {
+    display: none;
+}
+
+/* FORCE BORDER & BACKGROUND COLOUR ON ROLES */
+.role_f9575e, .showMoreButton_c83b44, .vc-permviewer-role-button {
+    background: #232528 !important;
+    border-color: #232528 !important;
+}
+
+.roleName_f9575e > div, .icon_f9d37d > svg {
+    color: #fafafa !important;
+    fill: #fafafa !important;
+}
+
+/* CHANGE STATUS COLOUR */
+.custom-profile-theme.theme-dark .statusBubbleOuter_d0a252, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:before, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:after {
+    border: none;
+}
+
+.statusBubble_d0a252 {
+    padding: .5rem .75rem;
+}
+
+/* HIDE NEW MENTIONS */
+.unreadMentionsBar_fea3ef {
+    display: none;
+}
+
+/* REDUCE FRIENDS LIST HEIGHT */
+div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul {
+    height: 100% !important;
+}
+
+/* HIDE SERVER DISCOVERY */
+div.scroller_fea3ef.none_c49869.scrollerBase_c49869 > div:has(> .listItemWrapper_dfb2f8 > .wrapperSimple_c5f96a > svg) {
+    display: none !important;
+}
+
+/* HIDE QUEST ADS */
+div.headerWrapper_d880dc > div > div {
+    display: none;
+}
+
+/* HIDE SHOP ADS */
+#profile-customization-tab > div.container_da1432 {
+    display: none;
+}
+
+/* BLOCK APP MENU */
+div[class^="channelAppLauncher"] {
+    display: none;
+}
+
+/* BLOCK DECORATIONS */
+div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatarDecoration"] {
+    display: none;
+}
+
+/* HIDE HELP ICONS */
+[href="https://support.discord.com"] {
+    display: none;
+}
+
+/* FIX GAME ACTIVITY BUTTON */
+[mask="url(#gameActivityMask)"] {
+    fill: oklab(0.786807 -0.0025776 -0.0110238) !important;
+}
+
+/* HIDE SERVER DISCOVERY */
+[aria-label="Explore Discoverable Servers"] {
+    display: none;
+    width: 0;
+    height: 0;
+}
+
+/* HIDE UNNECESSARY BUTTONS FROM DMS */
+[aria-label^="Show User Profile"] {
+    display: none;
+}
+
+[aria-label="Add Friends to DM"] {
+    display: none;
+}
+
+[aria-label="Start Video Call"] {
+    display: none;
+}
+
+/* HIDE GIFT BUTTON */
+[aria-label="Send a gift"] {
+    display: none;
+}
+
+/* HIDE ICON FROM TOPIC BAR */
+[aria-label="Jump to next summary"] {
+    display: none;
+}
+
+[aria-label="Jump to previous summary"] {
+    display: none;
+}
+
+/* HIDE ICONS FROM SERVER BAR */
+[aria-label="Hide Summaries"] {
+    display: none;
+}
+
+[aria-label="Hide Member List"] {
+    display: none;
+}
+
+[aria-label="Notification Settings"] {
+    display: none;
+}
+
+/* FIX RADIUS ON GAME ICON */
+[alt^="App icon for "] {
+    border-radius: .125rem;
+}
+
+/* USER BADGES */
+[aria-label="User Badges"] {
+    border: none;
+    background: transparent !important;
+}

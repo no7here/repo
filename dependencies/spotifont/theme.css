@@ -1,0 +1,7 @@
+/* OLD SPOTIFY FONT */
+@import url("https://cdn.no7he.re/fonts/Circular/font.css");
+
+/* OVERRULE SPOTIFY FONT */
+* {
+    font-family: "Circular", sans-serif !important;
+}
