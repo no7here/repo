@@ -29,6 +29,11 @@ div.toolbar_e44302 > a {
     display: none;
 }
 
+/* BLOCK QUESTS AD IN GIFT INVENTORY */
+.container_c1cce6 {
+    display: none;
+}
+
 /* HIDE ICON FROM SUMMARY BAR */
 .topicsPillSummaryIcon_cf58b5 {
     display: none;
