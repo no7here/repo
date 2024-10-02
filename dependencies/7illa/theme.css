@@ -105,7 +105,7 @@ div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul {
 }
 
 /* HIDE SERVER DISCOVERY */
-div.scroller_fea3ef.none_c49869.scrollerBase_c49869 > div:has(> .listItemWrapper_dfb2f8 > .wrapperSimple_c5f96a > svg) {
+.footer_aa1bff {
     display: none !important;
 }
 
