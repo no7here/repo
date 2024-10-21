@@ -5,3 +5,8 @@
 * {
     font-family: "Circular", sans-serif !important;
 }
+
+/* PATCH FULL-SCREEN LYRICS MAX HEIGHT */
+.spotifyinternal-artistnpv .npv-lyrics__content--full-screen {
+    height: 85vh;
+}
