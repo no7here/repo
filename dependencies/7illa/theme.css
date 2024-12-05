@@ -74,6 +74,11 @@ div.toolbar_e44302 > a {
     display: none;
 }
 
+/* REPLACE TIERED NITRO ICON */
+.badge_b64375 {
+    content: url("https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png");
+}
+
 /* FORCE BORDER & BACKGROUND COLOUR ON ROLES */
 .role_f9575e, .showMoreButton_c83b44, .vc-permviewer-role-button {
     background: #232528 !important;
