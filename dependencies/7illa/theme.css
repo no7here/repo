@@ -19,6 +19,11 @@ div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-ch
     display: none;
 }
 
+/* HIDE PLAY AGAIN */
+div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > h2.headerContainer_e5a9ed.privateChannelsHeaderContainer_c47fa9.container_a5ad5c.text_a5ad5c {
+    display: none;
+}
+
 /* HIDE HELP MENU */
 div.toolbar_e44302 > a {
     display: none;
