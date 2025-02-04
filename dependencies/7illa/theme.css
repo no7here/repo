@@ -125,12 +125,12 @@ div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatar
 }
 
 /* HIDE NITRO TAB */
-[data-list-item-id*="Nitro"] {
+[data-list-item-id*="nitro"] {
     display: none;
 }
 
 /* HIDE SHOP TAB */
-[data-list-item-id*="Shop"] {
+[data-list-item-id*="shop"] {
     display: none;
 }
 
