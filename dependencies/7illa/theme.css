@@ -10,17 +10,17 @@
 }
 
 /* HIDE NITRO TAB */
-div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(3) {
+.scroller__99e7c > ul > li:nth-child(3) {
     display: none;
 }
 
 /* HIDE SHOP TAB */
-div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > li:nth-child(5) {
+.scroller__99e7c > ul > li:nth-child(5) {
     display: none;
 }
 
 /* HIDE PLAY AGAIN */
-div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul > div.container_e5a9ed {
+.scroller__99e7c > ul > div.container__675e5 {
     display: none;
 }
 
