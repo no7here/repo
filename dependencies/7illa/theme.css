@@ -9,16 +9,6 @@
     font-family: "Whitney", sans-serif !important;
 }
 
-/* HIDE NITRO TAB */
-.scroller__99e7c > ul > li:nth-child(3) {
-    display: none;
-}
-
-/* HIDE SHOP TAB */
-.scroller__99e7c > ul > li:nth-child(5) {
-    display: none;
-}
-
 /* HIDE PLAY AGAIN */
 .scroller__99e7c > ul > div.container__675e5 {
     display: none;
@@ -131,6 +121,16 @@ div[class^="channelAppLauncher"] {
 
 /* BLOCK DECORATIONS */
 div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatarDecoration"] {
+    display: none;
+}
+
+/* HIDE NITRO TAB */
+[data-list-item-id*="Nitro"] {
+    display: none;
+}
+
+/* HIDE SHOP TAB */
+[data-list-item-id*="Shop"] {
     display: none;
 }
 
