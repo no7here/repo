@@ -15,7 +15,7 @@
 }
 
 /* HIDE HELP MENU */
-div.toolbar_e44302 > a {
+.toolbar_e44302 > a {
     display: none;
 }
 
@@ -30,22 +30,22 @@ div.toolbar_e44302 > a {
 }
 
 /* HIDE ICON FROM SUMMARY BAR */
-.topicsPillSummaryIcon_cf58b5 {
+.topicsPillSummaryIcon__0f481 {
     display: none;
 }
 
 /* HIDE COMMUNITY SERVER ICON */
-.guildIconV2Container_ed9816 {
+.guildIconV2Container__85d16 {
     display: none;
 }
 
 /* HIDE BOOST SERVER ICON */
-.guildIconContainer_ed9816 {
+.guildIconContainer__85d16 {
     display: none;
 }
 
 /* DISPLAY NAMES IN FRIENDS */
-.username_f3939d {
+.username__0a06e {
     font-weight: 500;
 }
 
@@ -69,17 +69,6 @@ div.toolbar_e44302 > a {
     display: none;
 }
 
-/* FORCE BORDER & BACKGROUND COLOUR ON ROLES */
-.role_f9575e, .showMoreButton_c83b44, .vc-permviewer-role-button {
-    background: #232528 !important;
-    border-color: #232528 !important;
-}
-
-.roleName_f9575e > div, .icon_f9d37d > svg {
-    color: #fafafa !important;
-    fill: #fafafa !important;
-}
-
 /* CHANGE STATUS COLOUR */
 .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:before, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:after {
     border: none;
@@ -90,17 +79,17 @@ div.toolbar_e44302 > a {
 }
 
 /* HIDE NEW MENTIONS */
-.unreadMentionsBar_fea3ef {
+.unreadMentionsBar_ef3116 {
     display: none;
 }
 
 /* REDUCE FRIENDS LIST HEIGHT */
-div.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > ul {
+.scroller__99e7c.thin__99f8c.scrollerBase__99f8c.fade__99f8c > ul {
     height: 100% !important;
 }
 
 /* HIDE SERVER DISCOVERY */
-.footer_d71945 {
+.footer__214dc {
     display: none !important;
 }
 
