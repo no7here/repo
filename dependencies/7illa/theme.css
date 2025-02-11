@@ -10,7 +10,7 @@
 }
 
 /* HIDE PLAY AGAIN */
-.scroller__99e7c > ul > div.container__675e5 {
+.scroller__99e7c > ul > .container__675e5 {
     display: none;
 }
 
@@ -94,12 +94,12 @@
 }
 
 /* HIDE QUEST ADS */
-div.headerWrapper_d880dc > div > div {
+#library-inventory-tab > .container_c50183 {
     display: none;
 }
 
 /* HIDE SHOP ADS */
-#profile-customization-tab > div.container_da1432 {
+#profile-customization-tab > .container__8279f {
     display: none;
 }
 
