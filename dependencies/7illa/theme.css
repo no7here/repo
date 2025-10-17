@@ -89,7 +89,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-.listItem__650eb {
+.stack_dbd263:nth-child(1) > :nth-child(6) {
     display: none !important;
 }
 
@@ -98,8 +98,8 @@
     display: none;
 }
 
-li.channel__972a0:nth-child(7) {
-    display: none;
+.channel__972a0:nth-child(7) {
+    display: none !important;
 }
 
 /* HIDE SHOP ADS */
