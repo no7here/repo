@@ -89,12 +89,16 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-.footer__214dc {
+.listItem__650eb {
     display: none !important;
 }
 
 /* HIDE QUEST ADS */
 #library-inventory-tab > .container_c50183 {
+    display: none;
+}
+
+li.channel__972a0:nth-child(7) {
     display: none;
 }
 
