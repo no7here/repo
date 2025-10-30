@@ -69,6 +69,11 @@
     display: none;
 }
 
+/* HIDE NAMEPLATES */
+.nameplated__91a9d > .container__4bbc6 {
+    display: none;
+}
+
 /* CHANGE STATUS COLOUR */
 .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:before, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:after {
     border: none;
