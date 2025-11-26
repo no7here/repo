@@ -99,11 +99,11 @@
 }
 
 /* HIDE QUEST ADS */
-#library-inventory-tab > .container_e45859 {
+#library-inventory-tab > .container_c50183 {
     display: none;
 }
 
-.fade_d125d2 > ul > .wrapper_ebee1d {
+.fade_d125d2 > ul > .container_e45859 {
     display: none;
 }
 
