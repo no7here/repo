@@ -142,8 +142,12 @@ div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatar
 }
 
 /* FIX GAME ACTIVITY BUTTON */
-[mask="url(#gameActivityMask)"] {
+/* [mask="url(#gameActivityMask)"] {
     fill: oklab(0.786807 -0.0025776 -0.0110238) !important;
+} */
+
+[aria-label="Apps"] {
+    display: none; 
 }
 
 /* HIDE SERVER DISCOVERY */
