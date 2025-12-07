@@ -171,7 +171,8 @@ div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatar
 }
 
 /* HIDE GIFT BUTTON */
-[aria-label="Send a gift"] {
+[aria-label="Send a gift"],
+[aria-label="Give a gift"] {
     display: none;
 }
 
