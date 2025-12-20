@@ -84,7 +84,8 @@
 }
 
 /* HIDE NEW MENTIONS */
-.unreadMentionsBar_ef3116 {
+.ef3116c2da186559-unreadMentionsIndicatorBottom,
+.ef3116c2da186559-unreadMentionsIndicatorTop {
     display: none;
 }
 
@@ -94,7 +95,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-._650eb104245d257b-listItem {
+._650eb104245d257b-listItem:last-child {
     display: none !important;
 }
 
@@ -111,7 +112,7 @@
     display: none;
 }
 
-.channel__972a0:nth-child(7) {
+._553bf02027ac2419-wrapper {
     display: none !important;
 }
 
