@@ -30,7 +30,7 @@
 }
 
 /* HIDE ICON FROM SUMMARY BAR */
-.topicsPillSummaryIcon__0f481 {
+._0f481cbbd7530492-topicsPillSummaryIcon {
     display: none;
 }
 
@@ -70,7 +70,7 @@
 }
 
 /* HIDE NAMEPLATES */
-.nameplated__91a9d > .container__4bbc6 {
+._91a9d7f7e5248a56-nameplated > ._4bbc6dc06e75ad52-container {
     display: none;
 }
 
@@ -94,7 +94,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-.stack_dbd263:nth-child(1) > :nth-child(6) {
+._650eb104245d257b-listItem {
     display: none !important;
 }
 
@@ -104,6 +104,10 @@
 }
 
 .fade_d125d2 > ul > .wrapper__553bf {
+    display: none;
+}
+
+.c501831bd1d46894-container {
     display: none;
 }
 
