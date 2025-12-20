@@ -90,7 +90,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-._650eb104245d257b-listItem:last-child {
+nav > ul > div > div > div:nth-child(6) {
     display: none !important;
 }
 
