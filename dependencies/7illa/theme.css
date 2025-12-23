@@ -122,8 +122,7 @@ div[class^="channelAppLauncher"] {
 }
 
 /* BLOCK DECORATIONS */
-div[class^="profileEffects"], svg[class^="avatarDecoration"], img[class^="avatarDecoration"],
-div[class$="profileEffects"], svg[class$="avatarDecoration"], img[class$="avatarDecoration"] {
+div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
     display: none !important;
 }
 
