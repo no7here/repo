@@ -111,6 +111,11 @@ nav > ul > div > div > div:nth-child(6) {
     display: none;
 }
 
+/* MORE NAMEPLATE SHIT TO BLOCK */
+._4bbc6dc06e75ad52-container {
+    display: none;
+}
+
 /* BLOCK APP MENU */
 div[class^="channelAppLauncher"] {
     display: none;
