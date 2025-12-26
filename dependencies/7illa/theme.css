@@ -111,13 +111,18 @@ nav > ul > div > div > div:nth-child(6) {
     display: none;
 }
 
+/* BLOCK USERNAME STYLES */
+.dfb989b3f435152a-toon {
+    display: none;
+}
+
 /* BLOCK APP MENU */
 div[class^="channelAppLauncher"] {
     display: none;
 }
 
 /* BLOCK DECORATIONS */
-div[class*="toon"], div[class*="nameplated"], div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
+div[class*="nameplated"], div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
     display: none !important;
 }
 
