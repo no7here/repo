@@ -111,11 +111,6 @@ nav > ul > div > div > div:nth-child(6) {
     display: none;
 }
 
-/* BLOCK USERNAME STYLES */
-.dfb989b3f435152a-toon {
-    display: none;
-}
-
 /* BLOCK APP MENU */
 div[class^="channelAppLauncher"] {
     display: none;
