@@ -111,18 +111,13 @@ nav > ul > div > div > div:nth-child(6) {
     display: none;
 }
 
-/* HIDE NAMEPLATES */
-[aria-label*="showEffect"] {
-    display: none;
-}
-
 /* BLOCK APP MENU */
 div[class^="channelAppLauncher"] {
     display: none;
 }
 
 /* BLOCK DECORATIONS */
-div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
+div[class*="showEffect"], div[class*="nameplated"], div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
     display: none !important;
 }
 
