@@ -64,11 +64,6 @@
     display: none;
 }
 
-/* HIDE NAMEPLATES */
-._91a9d7f7e5248a56-nameplated > ._4bbc6dc06e75ad52-container {
-    display: none;
-}
-
 /* CHANGE STATUS COLOUR */
 .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:before, .custom-profile-theme.theme-dark .statusBubbleOuter_d0a252:after {
     border: none;
@@ -113,6 +108,11 @@ nav > ul > div > div > div:nth-child(6) {
 
 /* HIDE SHOP ADS */
 #profile-customization-tab > .container__8279f {
+    display: none;
+}
+
+/* HIDE NAMEPLATES */
+[aria-label*="showEffect"] {
     display: none;
 }
 
