@@ -116,7 +116,7 @@ nav > ul > div > div > div:nth-child(6) {
 }
 
 /* HIDE SHOP ADS */
-#settingsPage_f131e9 > .container__8279f {
+.container__8279f {
     display: none;
 }
 
