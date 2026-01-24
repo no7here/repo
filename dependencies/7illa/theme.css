@@ -90,7 +90,9 @@ nav > ul > div > div > div:nth-child(6) {
 }
 
 /* HIDE QUEST ADS */
-#library-inventory-tab > .container_c50183 {
+
+/* GIFT INVENTORY QUEST AD */
+.panel__6131a > .container_c50183 {
     display: none;
 }
 
@@ -109,17 +111,17 @@ nav > ul > div > div > div:nth-child(6) {
 /* I probably should've added descriptions to all of these to know where they are :clueless: */
 
 /* QUESTS: ACTIVITY FEED AD BLOCKER */
-._11054c9baccea7a2-wrapper {
+.wrapper__11054 {
     display: none !important;
 }
 
 /* HIDE SHOP ADS */
-#profile-customization-tab > .container__8279f {
+#settingsPage_f131e9 > .container__8279f {
     display: none;
 }
 
 /* MORE NAMEPLATE SHIT TO BLOCK */
-._4bbc6dc06e75ad52-container {
+.iconsContainer__972a0 {
     display: none;
 }
 
