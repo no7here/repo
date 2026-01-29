@@ -60,7 +60,8 @@
 }
 
 /* HIDE ACTIVITY HEADER */
-.activityBiteSizePopout_c1d9fd > div:first-child {
+.headerContainer__095fe,
+.content_d125d2 > div > div > .container__0f2e8 {
     display: none;
 }
 
