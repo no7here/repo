@@ -122,8 +122,13 @@ nav > ul > div > div > div:nth-child(6) {
 }
 
 /* MORE NAMEPLATE SHIT TO BLOCK */
-.fadeIn__4bbc6 {
+.fadeIn__4bbc6, 
+.videoContainer__4bbc6 {
     display: none;
+}
+
+.container__4bbc6 {
+    background: none !important;
 }
 
 /* BLOCK APP MENU */
@@ -132,7 +137,7 @@ div[class^="channelAppLauncher"] {
 }
 
 /* BLOCK DECORATIONS */
-div[class*="nameplated"], div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
+div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
     display: none !important;
 }
 
