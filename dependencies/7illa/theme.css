@@ -25,7 +25,7 @@
 }
 
 /* HIDE ICON FROM SUMMARY BAR */
-._0f481cbbd7530492-topicsPillSummaryIcon {
+.topicsPillSummaryIcon__0f481 {
     display: none;
 }
 
@@ -93,7 +93,7 @@ nav > ul > div > div > div:nth-child(6) {
 /* HIDE QUEST ADS */
 
 /* GIFT INVENTORY QUEST AD */
-.panel__6131a > .container_c50183 {
+.stack_dbd263 > .container_c50183 {
     display: none;
 }
 
@@ -123,11 +123,11 @@ nav > ul > div > div > div:nth-child(6) {
 
 /* MORE NAMEPLATE SHIT TO BLOCK */
 .fadeIn__4bbc6, 
-.videoContainer__4bbc6 {
+.videoContainer_df39b2 {
     display: none;
 }
 
-.container__4bbc6 {
+.container_df39b2 {
     background: none !important;
 }
 
@@ -186,8 +186,7 @@ div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatar
 }
 
 /* HIDE GIFT BUTTON */
-[aria-label="Send a gift"],
-[aria-label="Give a gift"] {
+[aria-label="Give a Gift"] {
     display: none;
 }
 
