@@ -49,6 +49,15 @@
     font-weight: 500;
 }
 
+/* BLOCK LAST MEADOS SHIT */
+.container_f48e1f {
+    display: none;
+}
+
+.trailing_c38106 > div > .clickable__81391 {
+    display: none;
+}
+
 /* CHANGE RADIUS ON RICH PRESENCE ICON */
 .assets_c1d9fd > img {
     border-radius: .125rem;
@@ -186,6 +195,7 @@ div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatar
 }
 
 /* HIDE GIFT BUTTON */
+[aria-label="Send a gift"],
 [aria-label="Give a Gift"] {
     display: none;
 }
