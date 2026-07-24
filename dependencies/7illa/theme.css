@@ -125,6 +125,11 @@ nav > ul > div > div > div:nth-child(6) {
     display: none !important;
 }
 
+/* BLOCK QUEST ADS ABOVE PROFILE */
+div[class*="questPromoContent"] {
+    display: none;
+}
+
 /* HIDE SHOP ADS */
 .container__8279f {
     display: none;
@@ -146,7 +151,7 @@ div[class^="channelAppLauncher"] {
 }
 
 /* BLOCK DECORATIONS */
-div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"] {
+div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatarDecoration"], div[*="profileFrame"] {
     display: none !important;
 }
 
