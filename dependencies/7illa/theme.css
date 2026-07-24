@@ -126,7 +126,7 @@ nav > ul > div > div > div:nth-child(6) {
 }
 
 /* BLOCK QUEST ADS ABOVE PROFILE */
-div[class*="questPromoContent"] {
+div[data-testid*="quest-bar-container"] {
     display: none;
 }
 
