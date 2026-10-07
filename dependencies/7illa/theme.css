@@ -175,33 +175,34 @@ div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatar
     fill: oklab(0.786807 -0.0025776 -0.0110238) !important;
 } */
 
-[aria-label="Apps"] {
+[aria-label="Apps"], [aria-label="應用程式"] {
     display: none; 
 }
 
 /* HIDE SERVER DISCOVERY */
-[aria-label="Explore Discoverable Servers"] {
+[aria-label="Explore Discoverable Servers"], [aria-label="探索"] {
     display: none;
     width: 0;
     height: 0;
 }
 
 /* HIDE UNNECESSARY BUTTONS FROM DMS */
-[aria-label^="Show User Profile"] {
+[aria-label^="Show User Profile"], [aria-label^="顯示使用者個人資料"] {
     display: none;
 }
 
-[aria-label="Add Friends to DM"] {
+[aria-label="Add Friends to DM"], [aria-label="新增至私訊"] {
     display: none;
 }
 
-[aria-label="Start Video Call"] {
+[aria-label="Start Video Call"], [aria-label="開始視訊通話"] {
     display: none;
 }
 
 /* HIDE GIFT BUTTON */
 [aria-label="Send a gift"],
-[aria-label="Give a Gift"] {
+[aria-label="Give a Gift"],
+[aria-label="發送禮物"] {
     display: none;
 }
 
@@ -219,11 +220,11 @@ div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatar
     display: none;
 }
 
-[aria-label="Hide Member List"] {
+[aria-label="Hide Member List"], [aria-label="隱藏成員名單"] {
     display: none;
 }
 
-[aria-label="Notification Settings"] {
+[aria-label="Notification Settings"], [aria-label="通知設定"] {
     display: none;
 }
 
