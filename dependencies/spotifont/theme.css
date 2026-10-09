@@ -10,3 +10,7 @@
 .spotifyinternal-artistnpv .npv-lyrics__content--full-screen {
     height: 85vh;
 }
+/* PATCH NOW PLAYING SHOWING WHEN CLOSED */
+.AOAgML4d2nmdGZhmu3QM {
+    display: none;
+}
