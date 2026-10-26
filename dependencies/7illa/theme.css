@@ -95,7 +95,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-nav > ul > div > div > div:nth-child(6) {
+nav > div.tree_ef3116 > div > div:nth-child(6) {
     display: none !important;
 }
 
