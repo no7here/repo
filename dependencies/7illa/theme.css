@@ -29,13 +29,8 @@
     display: none;
 }
 
-/* HIDE COMMUNITY SERVER ICON */
-.guildIconV2Container__85d16 {
-    display: none;
-}
-
-/* HIDE BOOST SERVER ICON */
-.guildIconContainer__85d16 {
+/* HIDE BOOST / COMMUNITY SERVER ICON */
+.guildIconContainer_DV_ZH5 {
     display: none;
 }
 
@@ -54,7 +49,8 @@
     display: none;
 }
 
-.trailing_c38106 > div > .clickable__81391 {
+/* DEV MODE ICON */
+.trailing_3zSH5d > div > .clickable_fErCLM {
     display: none;
 }
 
@@ -95,7 +91,7 @@
 }
 
 /* HIDE SERVER DISCOVERY */
-nav > div.tree_ef3116 > div > div:nth-child(6) {
+nav > div.tree_5dqHTG > div > div:nth-child(6) {
     display: none !important;
 }
 
@@ -106,7 +102,8 @@ nav > div.tree_ef3116 > div > div:nth-child(6) {
     display: none;
 }
 
-.fade_d125d2 > ul > .wrapper__553bf {
+/* QUEST AD IN HOME PAGE */
+.fade_tqapBM > ul > .wrapper_hjotnx {
     display: none;
 }
 
@@ -136,8 +133,7 @@ div[data-testid*="quest-bar-container"] {
 }
 
 /* MORE NAMEPLATE SHIT TO BLOCK */
-.fadeIn__4bbc6, 
-.videoContainer_df39b2 {
+.videoContainer_AFi54G {
     display: none;
 }
 
