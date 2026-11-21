@@ -199,7 +199,8 @@ div[class*="profileEffects"], svg[class*="avatarDecoration"], img[class*="avatar
 /* HIDE GIFT BUTTON */
 [aria-label="Send a gift"],
 [aria-label="Give a Gift"],
-[aria-label="發送禮物"] {
+[aria-label="發送禮物"],
+[aria-label="贈送禮物"] {
     display: none;
 }
 
