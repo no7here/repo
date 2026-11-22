@@ -115,6 +115,11 @@ nav > div.tree_5dqHTG > div > div:nth-child(6) {
     display: none !important;
 }
 
+/* BLOCKS QUEST AD IN TOP LEFT OF VC */
+.wrapper_9jC23S {
+    display: none;
+}
+
 /* I probably should've added descriptions to all of these to know where they are :clueless: */
 
 /* QUESTS: ACTIVITY FEED AD BLOCKER */
